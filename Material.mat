@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Material
+  m_Shader: {fileID: 4800000, guid: a22860b8e0eb0ea41a95aa056b6628f4, type: 3}
+  m_Parent: {fileID: 0}
+  m_ModifiedSerializedProperties: 0
+  m_ValidKeywords: []
+  m_InvalidKeywords: []
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: 18000
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_LockedProperties: 
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _MainTex:
+        m_Texture: {fileID: 2800000, guid: 35f73b43d6e52164c91e99a85951b629, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SigmaTexture:
+        m_Texture: {fileID: 2800000, guid: 381d36dd10d7dac4698a93728bd874f0, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _iChannel0:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: []
+    m_Floats:
+    - _ALPHA_MALE: 1
+    - _Alpha: 1
+    - _Cull: 0
+    - _DestinationBlend: 10
+    - _PARTICLE: 1
+    - _SourceBlend: 5
+    - _Speed: 0
+    - _SpeedOffset: 0
+    - _VIGNIGGER: 0
+    - _Vignette: 0
+    - _ZTest: 8
+    - _ZWrite: 0
+    - _distortIter: 0
+    - _scale: 114.6
+    - _starIter: 64
+    - _test: 63.66
+    - _texScale: 0.1
+    - _useMovement: 0
+    - _vignette: 0
+    - _zoomnegro: 0.86
+    - m_end_renderingSettings: 0
+    - m_start_renderingSettings: 0
+    - shader_is_using_thry_editor: 69
+    m_Colors:
+    - _COLOR_UWU: {r: 1, g: 1, b: 1, a: 1}
+    - _Move: {r: 2.99, g: -0.39, b: 0, a: 0}
+    - _planetShit: {r: 6, g: 7.75, b: -393.88, a: -11.73}
+    - _starCol: {r: 1, g: 1, b: 1, a: 1}
+    - _starPos: {r: -6.01, g: 0, b: 0, a: 0}
+    - _worldDir: {r: -0.57, g: 242.9, b: 2.1, a: 1}
+  m_BuildTextureStacks: []
