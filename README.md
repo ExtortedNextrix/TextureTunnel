@@ -1,1 +1,1 @@
-# Required Thry Editor
+# Requires Thry Editor
